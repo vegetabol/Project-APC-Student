@@ -1,0 +1,20 @@
+This system will help to improve and enhance the Student Assistant management. The system has parts in the websites for the limitation of each user. The following are: 
+Discipline Office Head 
+They can write an announcement for the students. 
+See the exceeded time of each students 
+Get the information of each students 
+Approve the office director request 
+See if the director approves the request time of a students 
+
+Office Director: 
+Approve the time that requested by the students 
+Request for S.A. students 
+Grade the students 
+Comment to the students 
+
+Students: 
+Input exceeded time to the specific office 
+See the comment 
+Request for approval to the director 
+Ask for S.A. to the D.O. head 
+See how many minutes are left to finish the 15hrs per term 

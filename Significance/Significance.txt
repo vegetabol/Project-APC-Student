@@ -1,0 +1,7 @@
+•	The system will help the users to lessen the doings in terms of what they need in Student Assistant. 
+•	The system will help the users to avoid forgetting the important matters regarding Student Assistant. 
+•	The system will help to improve the productivity in Student Assistant. 
+•	There will be an admin page to create, read, update, delete assistance list. 
+•	There will be a student page to view, enlist records. 
+•	There will be notifications in the student page, wherein they will know if the report they submit is confirmed or not.
+
