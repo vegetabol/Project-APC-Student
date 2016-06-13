@@ -1,0 +1,38 @@
+Project Authors
+
+Class Professor
+
+Name
+Position
+E-Mail
+Mr. Ernesto Boydon
+Professor
+ernestob@apc.edu.ph
+
+
+Project Adviser
+
+Name
+Position
+E-Mail
+Mr. Francis Uñalivia
+Adviser
+francisu@apc.edu.ph
+Ms. Maria Teresa Carmela Montemayor
+Adviser
+tessm@apc.edu.ph
+
+Project Team
+
+Name
+Position
+E-Mail
+Jun Kimuel C. Romero
+Project Manager/Web Developer
+ucromero@student.apc.edu.ph
+Jenna Ann B. Abrera
+Project Documenter/Designer
+ebabrera@student.apc.edu.ph
+Gener Joseph G. Tomas
+Project Analyst/Developer
+ngtomas@student.apc.edu.ph
